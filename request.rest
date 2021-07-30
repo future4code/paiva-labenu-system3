@@ -1,0 +1,14 @@
+POST http://localhost:3003/professor
+Content-Type: application/json
+
+{
+    "nome":"chijo", 
+    "email":"chijo@pikachijo.com", 
+    "data_de_nascimento":"1999-01-01",
+    "especialidade":"React"
+}
+###
+GET http://localhost:3003/hobbie--nao funcionaaaa
+
+###
+GET http://localhost:3003/estudantes/1
